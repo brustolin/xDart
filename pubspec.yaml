@@ -1,0 +1,8 @@
+name: xdart
+description: A package with dart classes extensions
+version: 0.0.1
+author: Dhiogo Ramos Brustolin
+homepage: https://github.com/brustolin/xDart
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
