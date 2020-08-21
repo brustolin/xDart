@@ -14,3 +14,14 @@ To use import xdart:
 
 - isNullOrEmpty
 - isNullOrWhiteSpaces
+
+```int```
+
+- toHex
+
+```Iterable<T>``` 
+
+- groupby
+- sum
+- count
+- calculate

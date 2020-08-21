@@ -1,3 +1,7 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.2] - 2020-08-21
 
-* TODO: Describe initial release.
+* Add Extensions to num collections
+
+## [0.0.1] 
+
+* Initial release.
